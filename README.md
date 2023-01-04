@@ -1,6 +1,6 @@
 # Review Analysis
 
-NLP software in python to analyse the sentiments of the reviews and suggests possible improvements.
+NLP software in python to analyse the sentiments of the reviews give ratings for each Job Role and suggests possible improvements.
 
 <div align="center">
   <kbd>
@@ -10,12 +10,13 @@ NLP software in python to analyse the sentiments of the reviews and suggests pos
 
 ## Description
 
-Analyses the sentiments of the reviews and suggests possible improvements using natural language processing.
+Analyses the sentiments of the reviews and suggests possible improvements using natural language processing. Ratings have also been predicted for each Job Role (Ratings.ipynb)
 
 ### Features
 
 - assigns sentiment scores to each feedback.
 - suggests defects in features for improvements. (is possible)
+- ratings have been predicted for each job role.
 
 ## Getting started
 
