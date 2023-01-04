@@ -1,6 +1,6 @@
-# TINY README Template
+# Review Analysis
 
-This is a TINY (TINY Is Not YART ([Yet](https://github.com/CarsonChen1129/README-template) [Another](https://gist.github.com/zsim0n/1d943a0f3e5af59e1e1d91a3a1e9eae1) [README](https://github.com/matiassingers/awesome-readme/issues/117) Template)) README template. Put a brief description of the project here, and optionally include a screenshot with a nice frame:
+NLP software in python to analyse the sentiments of the reviews and suggests possible improvements.
 
 <div align="center">
   <kbd>
