@@ -41,10 +41,10 @@ python improvement_suggestions.py
 
 ### Acknowledgements
 
-All team members of Team coDecoders
-Aayush Jitendra Kumar
-Avinash Kumar
-Shaswat Sheshank
+#### All team members of Team coDecoders
+##### Aayush Jitendra Kumar
+##### Avinash Kumar
+##### Shaswat Sheshank
 
 ### License
 
